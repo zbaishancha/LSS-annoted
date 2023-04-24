@@ -4,5 +4,3 @@
 
 <img src="./imgs/eval.gif">
 
-算法理解：[http://t.csdn.cn/1ia45](http://t.csdn.cn/1ia45)
-"# LSS-annoted" 
